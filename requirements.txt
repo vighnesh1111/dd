@@ -4,4 +4,8 @@ django-cors-headers==4.3.1
 django-tailwind==3.6.0
 fastapi==0.110.0
 folium==0.16.0
-pytesseract==0.3.10
+openai==0.28.0
+opencv-python==4.9.0.80
+psycopg2-binary==2.9.9
+sqlparse==0.4.4
+typing_extensions==4.9.0
